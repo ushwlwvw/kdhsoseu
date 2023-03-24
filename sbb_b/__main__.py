@@ -63,7 +63,7 @@ async def start_jmthon():
         LOGS.info(f"تم انتهاء عملية التنصيب بنجاح")
         LOGS.info(
             f"لمعرفة اوامر السورس ارسل {cmdhr}الاوامر\
-        \nمجموعة قناة السورس  https://t.me/Tepthon_Help"
+        \nمجموعة قناة السورس  https://t.me/so_rs_lk"
         )
         LOGS.info(f"» عدد جلسات التنصيب الحالية = {str(total)} «")
         await jmthonstart(total)
